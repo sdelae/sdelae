@@ -38,6 +38,16 @@
             </ul>
         </p>
     </div>
+    <div class="section">
+        <h2 class="section-title">Interests</h2>
+        <p class="section-content">
+            <ul>
+                <li>Puzzles</li>
+                <li>Legos</li>
+                <li>Volunteeering</li>
+            </ul>
+        </p>
+    </div>
     <!-- Additional sections such as Skills, Work Experience, Certifications, or Publications can be added here -->
 </div>
 </body>
