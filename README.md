@@ -9,14 +9,19 @@
     <div class="section">
         <h2 class="section-title">About Me</h2>
         <p class="section-content">
-            I am currently pursuing a Master's in Computer Science and Business Technology, 
-            focusing on integrating technological solutions with business strategies. As I have a business background this is the perfect opportunity to blend my interest with my              experience. I am currently exploring areas such as data analytics, programming with python and Cloud (gcp).
+            <ul>
+                <li>Computer Science and Business Technology Master's Student at IE</li>
+                <li>Bachelor of Science from Babson College with concentrations in Marketing and Technology Entrepreneurship</li>
+            </ul>
         </p>
     </div>
     <div class="section">
-        <h2 class="section-title">Interests</h2>
+        <h2 class="section-title">What am I doing now?</h2>
         <p class="section-content">
-            <p>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater. I also enjoy helping my home country, Colombia, and I have done multiple volunteer experiences through the years. As of now I am doing a project with a foundation back home where we help make crochet animals for kids with cancer to make a sense of comfort through their therapies and medicine.
+            <ul>
+                <li>Advancing my learning on computer science concepts and understanding more of their application in business</li>
+                <li>Volunteering with foundations back home, Colombia, to help out how I can and when I can</li>
+            </ul>
         </p>
     </div>
     <!-- Additional sections such as Skills, Work Experience, Certifications, or Publications can be added here -->
