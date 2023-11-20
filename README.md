@@ -1,6 +1,9 @@
 <html>
 <head>
-    <title>Hi, I'm Sara <br> Computer Science and Business Technology Master's Student</title>
+    <title> Hi, I'm Sara 
+        <br> 
+        Computer Science and Business Technology Master's Student
+    </title>
     <style>
         body {
             font-family: Arial, sans-serif;
