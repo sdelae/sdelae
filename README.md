@@ -1,6 +1,6 @@
 <head>
     <h1>Hi, I'm Sara</h1>
-        CS & Business Tech Master's Student  <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+    <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 </head>
 <body>
  <hr>
@@ -16,7 +16,7 @@
     <div class="section">
         <h2 class="section-title">Interests</h2>
         <p class="section-content">
-            <p>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater.
+            <p>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater. I also enjoy helping my home country, Colombia, and I have done multiple volunteer experiences through the years. As of now I am doing a project with a foundation back home where we help make crochet animals for kids with cancer to make a sense of comfort through their therapies and medicine.
         </p>
     </div>
     <!-- Additional sections such as Skills, Work Experience, Certifications, or Publications can be added here -->
