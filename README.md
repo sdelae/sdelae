@@ -1,10 +1,9 @@
 <head>
-    <title>Hi, I'm Sara 
-        <br>
+    <title>Hi, I'm Sara</title>
+    <br>
         CS & Business Tech Master's Student
-        <hr>
+    <hr>
         <a href="[url](https://www.linkedin.com/feed/)">LinkedIn</a>
-    </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -61,5 +60,4 @@
 
     <!-- Additional sections such as Skills, Work Experience, Certifications, or Publications can be added here -->
 </div>
-
 </body>
