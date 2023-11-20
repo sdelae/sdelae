@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-<html>
 <head>
-    <title>Sara - CS & Business Tech Master's Student</title>
+    <title>Hi, I'm Sara 
+        <br>
+        CS & Business Tech Master's Student
+        <hr>
+        <a href="[url](https://www.linkedin.com/feed/)">LinkedIn</a>
+    </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,39 +44,19 @@
 </head>
 <body>
 
-<div class="header">
-    <h1>Your Name</h1>
-    <p>Master's Student in Computer Science and Business Technology</p>
-</div>
-
 <div class="content">
     <div class="section">
         <h2 class="section-title">About Me</h2>
         <p class="section-content">
             I am currently pursuing a Master's in Computer Science and Business Technology, 
-            focusing on integrating technological solutions with business strategies. 
-            My interest lies in data analytics, machine learning, and developing scalable 
-            software solutions for business challenges.
+            focusing on integrating technological solutions with business strategies. As I have a business background this is the perfect opportunity to blend my interest with my              experience. I am currently exploring areas such as data analytics, programming with python and Cloud (gcp).
         </p>
     </div>
 
     <div class="section">
-        <h2 class="section-title">Education</h2>
+        <h2 class="section-title">Interests</h2>
         <p class="section-content">
-            <strong>Master of Science in Computer Science and Business Technology</strong><br>
-            University Name, Expected Graduation Year<br>
-            Relevant Coursework: Advanced Algorithms, Business Intelligence, Data Management, 
-            Entrepreneurship in Technology, etc.
-        </p>
-    </div>
-
-    <div class="section">
-        <h2 class="section-title">Projects & Achievements</h2>
-        <p class="section-content">
-            <strong>Project Title</strong> - Description of a significant project or 
-            research undertaken during your master's program. <br>
-            <strong>Business Case Study</strong> - Analysis of a business case where 
-            you applied technological solutions to solve business problems.
+            <strong>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater.
         </p>
     </div>
 
@@ -80,4 +64,3 @@
 </div>
 
 </body>
-</html>
