@@ -1,10 +1,10 @@
 <head>
     <h1>Hi, I'm Sara</h1>
-        CS & Business Tech Master's Student
+        CS & Business Tech Master's Student  <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 </head>
 <body>
  <hr>
-        <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+       
 <div class="content">
     <div class="section">
         <h2 class="section-title">About Me</h2>
