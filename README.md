@@ -1,9 +1,6 @@
 <head>
     <title>Hi, I'm Sara</title>
-    <br>
         CS & Business Tech Master's Student
-    <hr>
-        <a href="[url](https://www.linkedin.com/feed/)">LinkedIn</a>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -42,6 +39,9 @@
 </head>
 <body>
 
+ <hr>
+        <a href="[url](https://www.linkedin.com/feed/)">LinkedIn</a>
+        
 <div class="content">
     <div class="section">
         <h2 class="section-title">About Me</h2>
