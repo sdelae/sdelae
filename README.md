@@ -1,9 +1,11 @@
 <html>
 <head>
-    <center><h1>Hi, I'm Sara</h1></center>
+    <h1 text-align: center>Hi, I'm Sara</h1>
+    <hr>
+
 </head>
 <body>
-<hr>
+
 <div class="content">
     <div class="section">
         <h3 class="section-title">About Me</h3>
