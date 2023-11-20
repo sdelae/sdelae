@@ -14,8 +14,7 @@
             such as data analytics, programming with python, and Cloud.
         </p>
     </div>
-
-    <!-- Additional sections such as Skills, Certifications, or Publications can be added here -->
+    
 </div>
 
 </body>
