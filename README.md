@@ -1,6 +1,6 @@
 <html>
 <head>
-    <h1 text-align: center>Hi, I'm Sara</h1>
+    <h1 style="text-align: center;">Hi, I'm Sara</h1>
     <hr>
 
 </head>
