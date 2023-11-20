@@ -1,9 +1,5 @@
 <html>
 <head>
-    <title> Hi, I'm Sara 
-        <br> 
-        Computer Science and Business Technology Master's Student
-    </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -42,8 +38,8 @@
 <body>
 
 <div class="header">
-    <h1>Your Name</h1>
-    <p>Master's Student in Computer Science</p>
+    <h1>Hi, I'm Sara</h1>
+    <p>Master's Student in Computer Science and Business Technology</p>
 </div>
 
 <div class="content">
