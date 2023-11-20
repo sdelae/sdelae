@@ -1,6 +1,6 @@
 <html>
 <head>
-    <h1>Hi, I'm Sara</h1>
+    <center><h1>Hi, I'm Sara</h1></center>
 </head>
 <body>
 <hr>
