@@ -1,6 +1,21 @@
 <head>
     <h1 style=text-align: center;>Hi, I'm Sara</h1>
     <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+    <style>
+        body {
+            text-align: center; /* Centers all the text in the body */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1, a {
+            display: block; /* Makes h1 and a block elements, which allows them to be centered */
+            margin: auto; /* Auto margins work with block elements to center them */
+        }
+        a {
+            margin-top: 10px; /* Adds a little space above the link */
+        }
+    </style>
 </head>
 <body>
  <hr>
