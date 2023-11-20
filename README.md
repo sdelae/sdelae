@@ -1,5 +1,5 @@
 <head>
-    <title>Hi, I'm Sara</title>
+    <h1>Hi, I'm Sara</h1>
         CS & Business Tech Master's Student
 </head>
 <body>
@@ -16,7 +16,7 @@
     <div class="section">
         <h2 class="section-title">Interests</h2>
         <p class="section-content">
-            <strong>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater.
+            <p>I enjoy cybersecurity, programming, and being able to analyze problems with a more technical mindset. In my free time you can either find me doing a Lego, a puzzle, or at the movie theater.
         </p>
     </div>
     <!-- Additional sections such as Skills, Work Experience, Certifications, or Publications can be added here -->
