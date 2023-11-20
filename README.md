@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
     <title>Hi, I'm Sara 
         <br>
